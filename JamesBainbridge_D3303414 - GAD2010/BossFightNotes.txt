@@ -1,0 +1,4 @@
+Boss Fight Ideas:
+1: Have raining projectiles that fall from the sky. (Indicated via red light on the floor.)
+2: Have ONE projectile that the player can pick up and throw back at the enemy. (Must be picked up and floating above players head.)
+3: During the final wave have dangerous versions of the projectiles that also fall down onto the arena.
