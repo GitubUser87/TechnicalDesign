@@ -17,6 +17,17 @@
 				"C:/Users/D3303414/Source/TechnicalDesign/JamesBainbridge_D3303414 - GAD2010/JamesBainbridge_D3303414 - GAD2010/Content/Base/Character/Blueprints/BP_GAD2010.uasset",
 				"C:/Users/D3303414/Source/TechnicalDesign/JamesBainbridge_D3303414 - GAD2010/JamesBainbridge_D3303414 - GAD2010/Content/Added_Content/Blueprints/Enemy_BP.uasset",
 				"C:/Users/D3303414/Source/TechnicalDesign/JamesBainbridge_D3303414 - GAD2010/JamesBainbridge_D3303414 - GAD2010/Plugins/GAD2010Interaction/Content/InteractiveActorBase.uasset",
+				"C:/Users/D3303414/Source/TechnicalDesign/JamesBainbridge_D3303414 - GAD2010/JamesBainbridge_D3303414 - GAD2010/Content/Added_Content/Blueprints/DestructableWall_BP.uasset",
+				"C:/Users/D3303414/Source/TechnicalDesign/JamesBainbridge_D3303414 - GAD2010/JamesBainbridge_D3303414 - GAD2010/Content/Added_Content/Blueprints/NewBlueprint.uasset",
+				"C:/Users/D3303414/Source/TechnicalDesign/JamesBainbridge_D3303414 - GAD2010/JamesBainbridge_D3303414 - GAD2010/Content/Added_Content/Blueprints/NewInterface.uasset",
+				"C:/Users/D3303414/Source/TechnicalDesign/JamesBainbridge_D3303414 - GAD2010/JamesBainbridge_D3303414 - GAD2010/Content/Added_Content/Blueprints/DealDamage.uasset",
+				"C:/Users/D3303414/Source/TechnicalDesign/JamesBainbridge_D3303414 - GAD2010/JamesBainbridge_D3303414 - GAD2010/Content/Added_Content/Materials/Flicker_M.uasset",
+				"C:/Users/D3303414/Source/TechnicalDesign/JamesBainbridge_D3303414 - GAD2010/JamesBainbridge_D3303414 - GAD2010/Content/Added_Content/Blueprints/Interfaces/DealDamage.uasset",
+				"C:/Users/D3303414/Source/TechnicalDesign/JamesBainbridge_D3303414 - GAD2010/JamesBainbridge_D3303414 - GAD2010/Content/Added_Content/Blueprints/Interfaces/Finish_BP.uasset",
+				"C:/Users/D3303414/Source/TechnicalDesign/JamesBainbridge_D3303414 - GAD2010/JamesBainbridge_D3303414 - GAD2010/Content/Added_Content/Blueprints/FinishDoor_BP.uasset",
+				"C:/Users/D3303414/Source/TechnicalDesign/JamesBainbridge_D3303414 - GAD2010/JamesBainbridge_D3303414 - GAD2010/Content/Added_Content/Blueprints/BossLock_BP.uasset",
+				"C:/Users/D3303414/Source/TechnicalDesign/JamesBainbridge_D3303414 - GAD2010/JamesBainbridge_D3303414 - GAD2010/Content/Added_Content/Blueprints/Fireball_BP.uasset",
+				"C:/Users/D3303414/Source/TechnicalDesign/JamesBainbridge_D3303414 - GAD2010/JamesBainbridge_D3303414 - GAD2010/Content/Added_Content/Blueprints/RandomSpawn_BP.uasset",
 				"D:/Content/Base/Maps/BossEncounter.umap",
 				"D:/Content/Base/Blueprints/InteractionSamples/Advanced/LongPressButton.uasset"
 			]
