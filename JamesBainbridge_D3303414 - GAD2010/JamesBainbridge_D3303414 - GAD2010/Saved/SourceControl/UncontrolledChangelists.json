@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/D3303414/Source/repos/TechnicalDesign/JamesBainbridge_D3303414 - GAD2010/JamesBainbridge_D3303414 - GAD2010/Content/Base/Maps/BossEncounter.umap",
+				"C:/Users/D3303414/Source/repos/TechnicalDesign/JamesBainbridge_D3303414 - GAD2010/JamesBainbridge_D3303414 - GAD2010/Content/Added_Content/Blueprints/Throwable/GADThrowable_BP.uasset",
+				"C:/Users/D3303414/Source/repos/TechnicalDesign/JamesBainbridge_D3303414 - GAD2010/JamesBainbridge_D3303414 - GAD2010/Content/Added_Content/Blueprints/Throwable/ThrowableSpawn_BP.uasset",
+				"C:/Users/D3303414/Source/repos/TechnicalDesign/JamesBainbridge_D3303414 - GAD2010/JamesBainbridge_D3303414 - GAD2010/Content/Added_Content/Blueprints/Throwable/Trigger_BP.uasset",
 				"C:/Users/D3303414/Source/TechnicalDesign/JamesBainbridge_D3303414 - GAD2010/JamesBainbridge_D3303414 - GAD2010/Content/Base/Maps/BossEncounter.umap",
 				"C:/Users/D3303414/Source/TechnicalDesign/JamesBainbridge_D3303414 - GAD2010/JamesBainbridge_D3303414 - GAD2010/Content/Base/Blueprints/InteractionSamples/Advanced/LongPressButton.uasset",
 				"C:/Users/D3303414/Source/TechnicalDesign/JamesBainbridge_D3303414 - GAD2010/JamesBainbridge_D3303414 - GAD2010/Content/Base/Maps/EncounterHub.umap",
@@ -51,7 +55,6 @@
 				"C:/Users/D3303414/Source/TechnicalDesign/JamesBainbridge_D3303414 - GAD2010/JamesBainbridge_D3303414 - GAD2010/Content/Added_Content/Blueprints/Interfaces/DealDamage.uasset",
 				"C:/Users/D3303414/Source/TechnicalDesign/JamesBainbridge_D3303414 - GAD2010/JamesBainbridge_D3303414 - GAD2010/Content/Added_Content/Fire.uasset",
 				"C:/Users/D3303414/Source/TechnicalDesign/JamesBainbridge_D3303414 - GAD2010/JamesBainbridge_D3303414 - GAD2010/Content/Added_Content/Blueprints/BarrelSpawner_BP.uasset",
-				"C:/Users/D3303414/Source/repos/TechnicalDesign/JamesBainbridge_D3303414 - GAD2010/JamesBainbridge_D3303414 - GAD2010/Content/Base/Maps/BossEncounter.umap",
 				"C:/Users/D3303414/Source/TechnicalDesign/JamesBainbridge_D3303414 - GAD2010/JamesBainbridge_D3303414 - GAD2010/Content/Added_Content/Blueprints/NewInterface.uasset",
 				"C:/Users/D3303414/Source/TechnicalDesign/JamesBainbridge_D3303414 - GAD2010/JamesBainbridge_D3303414 - GAD2010/Content/Added_Content/Blueprints/DealDamage.uasset",
 				"C:/Users/D3303414/Source/TechnicalDesign/JamesBainbridge_D3303414 - GAD2010/JamesBainbridge_D3303414 - GAD2010/Content/Added_Content/Blueprints/Interfaces/Finish_BP.uasset",
