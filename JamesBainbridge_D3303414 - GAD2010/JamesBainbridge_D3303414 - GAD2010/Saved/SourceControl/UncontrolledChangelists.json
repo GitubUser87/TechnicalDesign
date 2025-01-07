@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/jabai/Source/TechnicalDesign/JamesBainbridge_D3303414 - GAD2010/JamesBainbridge_D3303414 - GAD2010/Content/Added_Content/Blueprints/Boss/Fireball_BP.uasset",
+				"C:/Users/jabai/Source/TechnicalDesign/JamesBainbridge_D3303414 - GAD2010/JamesBainbridge_D3303414 - GAD2010/Content/Added_Content/Blueprints/Boss/FireRaindrop_BP.uasset",
+				"C:/Users/jabai/Source/TechnicalDesign/JamesBainbridge_D3303414 - GAD2010/JamesBainbridge_D3303414 - GAD2010/Content/Added_Content/Blueprints/Throwable/ThrowableItem_BP.uasset",
+				"C:/Users/jabai/Source/TechnicalDesign/JamesBainbridge_D3303414 - GAD2010/JamesBainbridge_D3303414 - GAD2010/Content/Added_Content/Blueprints/Throwable/ThrowableSpawn_BP.uasset",
+				"C:/Users/jabai/Source/TechnicalDesign/JamesBainbridge_D3303414 - GAD2010/JamesBainbridge_D3303414 - GAD2010/Content/Added_Content/Blueprints/Boss/Turret_BP.uasset",
+				"C:/Users/jabai/Source/TechnicalDesign/JamesBainbridge_D3303414 - GAD2010/JamesBainbridge_D3303414 - GAD2010/Content/Base/Maps/BossEncounter.umap",
+				"C:/Users/jabai/Source/TechnicalDesign/JamesBainbridge_D3303414 - GAD2010/JamesBainbridge_D3303414 - GAD2010/Content/Added_Content/Blueprints/Boss/Boss_BP.uasset",
 				"C:/Users/D3303414/Source/repos/TechnicalDesign/JamesBainbridge_D3303414 - GAD2010/JamesBainbridge_D3303414 - GAD2010/Content/Base/Maps/BossEncounter.umap",
 				"C:/Users/D3303414/Source/repos/TechnicalDesign/JamesBainbridge_D3303414 - GAD2010/JamesBainbridge_D3303414 - GAD2010/Content/Added_Content/Blueprints/Throwable/GADThrowable_BP.uasset",
 				"C:/Users/D3303414/Source/repos/TechnicalDesign/JamesBainbridge_D3303414 - GAD2010/JamesBainbridge_D3303414 - GAD2010/Content/Added_Content/Blueprints/Throwable/ThrowableSpawn_BP.uasset",
